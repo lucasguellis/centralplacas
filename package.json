@@ -1,0 +1,25 @@
+{
+  "name": "centralplacas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasguellis/centralplacas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasguellis/centralplacas/issues"
+  },
+  "homepage": "https://github.com/lucasguellis/centralplacas#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^12.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
